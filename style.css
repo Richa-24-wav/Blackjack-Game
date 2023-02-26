@@ -1,0 +1,53 @@
+body{
+    background-image: linear-gradient(to right, rgb(19, 76, 11) , rgb(30, 137, 16),rgb(19, 76, 11));
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(193, 239, 187);
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* border: 2px solid ; */
+    width: 40%;
+    height: 100%;
+    margin-left: 30%;
+    box-shadow:  0px 0px 10px 1px rgb(12, 12, 12);
+    padding: 10px;
+    margin-top: 50px;
+}
+h1{
+    /* color: rgb(23, 53, 6); */
+    color: darkgoldenrod;
+    /* color: #dff615; */
+    padding-top: 10px;
+}
+button{
+    margin-bottom:5px;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    color: rgb(19, 76, 11);
+    background-color:  darkgoldenrod;
+    
+    font-size: 18px;
+    font-weight: bolder;
+    cursor: pointer;
+    
+}
+#heading{
+    font-style: italic;
+}
+
+#player-el{
+    background-color:  rgb(128, 200, 135);
+    color: rgb(8, 58, 8);
+    width: 100%;
+    opacity: .6;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    /* width: 150px;
+    height: 30px;
+    margin-left: 37%;
+    font-weight: bolder;
+    padding: 4px;
+    border-radius: 5px; */
+}
